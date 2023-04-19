@@ -1,1 +1,1 @@
-# Python3
+Pour ce projet, on m'a chargé d'analyser les ventes d'une librairie avec Python. Ladite librairie a décidé d'ouvrir un site de vente en ligne, et a voulu faire le point sur les performances de celle-ci après deux ans d'exercice.
